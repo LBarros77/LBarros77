@@ -25,5 +25,4 @@ src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&lo
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leonprogramer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-barros-741b9b196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMzLpzT5eRh23coChrtAnkw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- ![Snake animation](https://github.com/LBarros77/LBarros77/blob/output/github-contribution-grid-snake.svg)
 </div>
