@@ -4,18 +4,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LBarros77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBarros77&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="LB-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block; margin-bottom: 1rem"><br>
+  <h2>FullStack</h2>
   <img align="center" alt="LB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="LB-Bootstrap" height="30" width="40"
-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="LB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="LB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="LB-Java" height="30" width="40"
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
- <img align="center" alt="LB-MySQL" height="30" width="40"
-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="LB-Bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="LB-Bootstrap" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
+  <img align="center" alt="LB-Bootstrap" height="30" width="40" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="LB-React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+  <br><br>
+  <img align="center" alt="LB-Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
+  <img align="center" alt="LB-NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="LB-TS" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <br><br>
+  <img align="center" alt="LB-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="LB-Postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
+  <br><br>
+  <img align="center" alt="LB-Nginx" height="30" width="40" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor">
+  <img align="center" alt="LB-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="LB-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 </div>
   
   ##
